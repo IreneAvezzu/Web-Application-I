@@ -1,7 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/iZes9Qfg)
-
 # Exam #1: "Ultima Corsa"
-## Student: s358326 Avezzù Irene
 Per questa mia versione personale di "Race the Trails" ho scelto come ambientazione la città di Venezia con riferimenti a lughi e possibili eventi che fanno parte della cultura e la storia di questa città.
 
 ## React Client Application Routes
