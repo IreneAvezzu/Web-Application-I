@@ -1,0 +1,40 @@
+/* bootstap icons */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+:root {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background-color: #f8f9fa; 
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  padding-top: 70px;
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+/* push down the footer making the main pace take up the full viewport height */
+.min-height-viewport {
+  min-height: 100vh;
+}
+
+/* footer link style */
+.style-footer {
+  background-color: #b31c33 !important; 
+  font-size: 0.85rem;
+}
+
+/* link font color */
+.text-light-50 {
+  color: rgba(255, 255, 255, 0.75) !important;
+  transition: color 0.2s ease-in-out;
+}
+
+.hover-white:hover {
+  color: #ffffff !important;
+}
+
+.hover-white:hover i {
+  color: #ffffff !important;
+}
